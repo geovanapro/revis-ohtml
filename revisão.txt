@@ -108,7 +108,7 @@
             <tr>
                 <td>-  Programar Arduino em Node-RED </td>
             </tr>
-        </table>
+        </table> 
     </div>
     <div class="container yellow-container">
         <p> Se sentimos 95% preparadas para lidar com os assuntos da tabela dos itens compreendidos. Já a tabela dos itens não compreendidos, sentimos maior dificuldade no entendimento e na absorção do conteúdo. Um dos pontos positivos foi
