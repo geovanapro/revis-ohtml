@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revisão do semestre</title>
+    <link rel="stylesheet" href="compreendi.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+        }
+
+        .header {
+            background-color: rgb(7, 0, 0);
+            padding: 20px;
+            display: flex;
+            align-items: center;
+        }
+
+        .header img {
+            max-width: 150px;
+            margin-right: 20px; /* Espaçamento entre a logo e o texto */
+        }
+
+        .header h1 {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            font-weight: 300; /* Fonte fina */
+            color: #ffffff;
+            margin: 0; /* Remove a margem padrão do h1 */
+        }
+
+        .container {
+            margin: 20px auto;
+            width: 80%;
+            background-color: #ff5656;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+        }
+
+        .yellow-container {
+            background-color: rgb(255, 255, 108);
+        }
+
+        h2 {
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table td {
+            padding: 8px;
+            border-bottom: 1px solid #ddd;
+        }
+
+        table td:last-child {
+            border-bottom: none;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/SENAI_S%C3%A3o_Paulo_logo.png" alt="Logo SENAI">
+        <h1> Isabella Bertolo dos Santos e Geovana Ferreira Vieira    A01  N°08  N°17                              
+        </h1>
+    </header>
+    <div class="container">
+        <h2>Compreendidos</h2>
+        <table>
+            <tr>
+                <td>- Utilizar HTML e CSS </td>
+            </tr>
+            <tr>
+                <td>- Banco de dados</td>
+            </tr>
+            <tr>
+                <td>- Abrir servidores em React utilizando o Expo</td>
+            </tr>
+            <tr>
+                <td>- Criar máquinas virtuais versão Ubuntu Server</td>
+            </tr>
+            <tr>
+                <td>- Utilizar o SSH do Ubuntu e Windows corretamente</td>
+            </tr>
+            <tr>
+                <td>- Baixar dependências do React e Node.js</td>
+            </tr>
+            <tr>
+                <td>- Programação em React</td>
+            </tr>
+            <tr>
+                <td>-  Componentes Widgets </td>
+            </tr>
+            <tr>
+                <td>- Projetar interfaces para dispositivos móveis </td>
+            </tr>
+        </table>
+    </div>
+    <div class="container">
+        <h2>Não compreendidos totalmente</h2>
+        <table>
+            <tr>
+                <td>-  Programar Arduino em Node-RED </td>
+            </tr>
+        </table>
+    </div>
+    <div class="container yellow-container">
+        <p> Se sentimos 95% preparadas para lidar com os assuntos da tabela dos itens compreendidos. Já a tabela dos itens não compreendidos, sentimos maior dificuldade no entendimento e na absorção do conteúdo. Um dos pontos positivos foi
+os professores estarem dispostos a ajudar e tirar nossas dúvidas  </p>
+    </div>
+</body>
+</html>
